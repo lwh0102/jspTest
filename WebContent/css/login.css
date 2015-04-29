@@ -1,0 +1,9 @@
+@CHARSET "UTF-8";
+
+#loginTitle p{
+	font-size: 30px;
+}
+
+#loginSubmit{
+	text-align: right;
+}
